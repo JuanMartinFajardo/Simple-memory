@@ -1,4 +1,4 @@
-It was a hot and boring summer in Madrid. Since I studied in High School the basics of circuits, I had wanted to apply that knowledge to construct something real.
+It was a hot and boring summer in Madrid. Since I studied in High School the basics of circuits, I had wanted to apply that knowledge to build something real.
 Somehow, I found that it was the right moment to dust off my notes and start a project.
 So I downloaded a software to simulate circuits. I choose one called 'Digital', developed by Helmut Neemann (you can download it at https://github.com/hneemann/Digital).
 
