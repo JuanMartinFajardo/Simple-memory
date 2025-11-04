@@ -5,7 +5,18 @@ So I downloaded a software to simulate circuits. I choose one called 'Digital', 
 I designed memory of 64 'bytes', where this 'byte' was made out of 6 bits instead of 8 (I was bored but the summertime was finite). So each byte can store a number between 0 and 63.
 This memory can be accessed to be read and written. To get the content of a byte, type its direction (in 'pointed direction'). And to modify it, type the new value in 'Input to write' and press the button C.
 
+
+https://github.com/user-attachments/assets/0653e395-2023-47c0-a549-0a5220172571
+
+
+
+
 This was made using only: basic logic gates, demultiplexors and Flip-Flop RS.
 The main file is memoriaW64.dig, while 2chooser64.dig and comparador64.dig are auxiliary functions/circuits that I implemented separatedly in order to make the desing simpler.
+<img width="507" height="379" alt="chooser" src="https://github.com/user-attachments/assets/e5704fc2-61ac-47ec-9812-01575a167c2c" />
+
+<img width="671" height="679" alt="comparator" src="https://github.com/user-attachments/assets/43326b1b-be5d-4916-8e05-691b9f1b22b2" />
+
+
 
 Please note that I have no degree in Computer Science or anything related to circuit design, so I expect my design to be highly ineficient. But I had a really fun time making this little approach to the world of circuit design.
