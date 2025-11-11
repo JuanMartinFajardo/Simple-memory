@@ -13,6 +13,7 @@ https://github.com/user-attachments/assets/0653e395-2023-47c0-a549-0a5220172571
 
 This was made using only: basic logic gates, demultiplexors and Flip-Flop RS.
 The main file is memoriaW64.dig, while 2chooser64.dig and comparador64.dig are auxiliary functions/circuits that I implemented separatedly in order to make the desing simpler.
+
 <img width="507" height="379" alt="chooser" src="https://github.com/user-attachments/assets/e5704fc2-61ac-47ec-9812-01575a167c2c" />
 
 <img width="671" height="679" alt="comparator" src="https://github.com/user-attachments/assets/43326b1b-be5d-4916-8e05-691b9f1b22b2" />
